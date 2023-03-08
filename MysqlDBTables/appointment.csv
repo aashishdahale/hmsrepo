@@ -1,0 +1,4 @@
+"id";"user_id";"fullname";"gender";"age";"appoint_date";"email";"phno";"diseases";"doctor_id";"address";"status"
+1;1;"Virendra Patil";"male";"22";"2023-03-05";"veerp599@gmail.com";"98765543211";"abc";2;"Pune";"Pending"
+2;1;"prashant duse";"male";"25";"2023-03-05";"pd@gmail.com";"7771234567";"abc";1;"Pune";"Checkup completed"
+3;1;"V K";"male";"40";"2023-03-06";"vk@gmail.com";"9999988888";"cancer";2;"Pune";"Pending"
